@@ -1,0 +1,13 @@
+development:
+  adapter: mysql2
+  database: ingress-porta_dev
+  host: localhost
+  username: root
+  password: 
+
+test:
+  adapter: mysql2
+  database: ingress-porta_test
+  host: localhost
+  username: root
+  password:
